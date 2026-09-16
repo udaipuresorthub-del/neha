@@ -1,0 +1,30 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fav-gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fff0b8"/>
+      <stop offset="30%" stop-color="#e6be53"/>
+      <stop offset="60%" stop-color="#c99726"/>
+      <stop offset="100%" stop-color="#996515"/>
+    </linearGradient>
+    <linearGradient id="fav-ruby" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f43f5e"/>
+      <stop offset="100%" stop-color="#9f1239"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Outer Dark Shield Background -->
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="#0f172a" stroke="url(#fav-gold)" stroke-width="2.5"/>
+  <rect x="5" y="5" width="54" height="54" rx="11" fill="none" stroke="url(#fav-gold)" stroke-width="0.75" stroke-dasharray="2 2"/>
+  
+  <!-- Crown Element -->
+  <path d="M22 20 L25 25 L32 18 L39 25 L42 20 L40 28 L24 28 Z" fill="url(#fav-gold)"/>
+  <circle cx="22" cy="19" r="1.2" fill="#ffffff"/>
+  <circle cx="32" cy="17" r="1.5" fill="#ffffff"/>
+  <circle cx="42" cy="19" r="1.2" fill="#ffffff"/>
+
+  <!-- Monogram NM -->
+  <text x="32" y="47" fill="url(#fav-gold)" font-family="'Cinzel', 'Playfair Display', 'Georgia', serif" font-size="22" font-weight="900" text-anchor="middle" letter-spacing="1">NM</text>
+  
+  <!-- Small Ruby Accent Sparkle -->
+  <circle cx="32" cy="54" r="2" fill="url(#fav-ruby)"/>
+</svg>

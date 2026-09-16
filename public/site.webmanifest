@@ -1,0 +1,25 @@
+{
+  "name": "Neha Mam Udaipur Escort Service",
+  "short_name": "Neha Mam",
+  "description": "Premier luxury Udaipur Escort Service & verified call girls in Udaipur by Neha Mam with 100% Cash on Delivery.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#111827",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "64x64",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
