@@ -152,14 +152,30 @@ export const faqs = [
 ];
 
 export const profileImages = [
-  "/images/premium-escort-service-udaipur.jpg",
-  "/images/elegant-udaipur-escorts.jpg",
-  "/images/professional-udaipur-escorts.jpg",
-  "/images/luxury-escort-service-udaipur.jpg",
-  "/images/high-profile-udaipur-escorts.jpg",
-  "/images/classy-escort-service-udaipur.jpg",
-  "/images/romantic-companion-udaipur-escort.jpg",
-  "/images/top-escorts-in-udaipur.jpg"
+  "/images/vip-escorts-udaipur-01.jpg",
+  "/images/russian-call-girls-udaipur-01.jpg",
+  "/images/independent-call-girls-udaipur-01.jpg",
+  "/images/college-call-girls-udaipur-01.jpg",
+  "/images/luxury-resort-escorts-udaipur-01.jpg",
+  "/images/celebrity-escorts-udaipur-01.jpg",
+  "/images/vip-escorts-udaipur-02.jpg",
+  "/images/russian-call-girls-udaipur-02.jpg",
+  "/images/independent-call-girls-udaipur-02.jpg",
+  "/images/college-call-girls-udaipur-02.jpg",
+  "/images/luxury-resort-escorts-udaipur-02.jpg",
+  "/images/lake-pichola-call-girls-01.jpg",
+  "/images/fateh-sagar-escorts-01.jpg",
+  "/images/high-class-escort-udaipur-01.jpg",
+  "/images/vip-escorts-udaipur-03.jpg",
+  "/images/russian-call-girls-udaipur-03.jpg",
+  "/images/independent-call-girls-udaipur-03.jpg",
+  "/images/college-call-girls-udaipur-03.jpg",
+  "/images/luxury-resort-escorts-udaipur-03.jpg",
+  "/images/celebrity-escorts-udaipur-02.jpg",
+  "/images/lake-pichola-call-girls-02.jpg",
+  "/images/fateh-sagar-escorts-02.jpg",
+  "/images/high-class-escort-udaipur-02.jpg",
+  "/images/vip-escorts-udaipur-04.jpg"
 ];
 
 // Rich, 100% Human-Score, GEO / AI-Search Master Guide (2500+ Words)
