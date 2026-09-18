@@ -82,9 +82,6 @@ export function VerifiedPhotoGallery() {
               />
               <meta itemProp="caption" content={girl.alt} />
               
-              {/* Gradient Overlay */}
-              <div className="gallery-card-gradient"></div>
-
               {/* Status Chips */}
               <div className="gallery-chip-top-left">
                 <span className="chip-verified">

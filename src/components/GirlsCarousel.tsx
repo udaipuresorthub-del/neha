@@ -95,7 +95,6 @@ export function GirlsCarousel({ girls, cards }: CarouselProps) {
                 className="girl-card-image"
                 priority={idx < 2}
               />
-              <div className="girl-img-overlay"></div>
               
               {/* Floating Status & Rating Chips */}
               <div className="girl-top-chips">
